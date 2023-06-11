@@ -1,0 +1,7 @@
+path: C:\Users\stasi\OneDrive\Bureau\Counting_insects_with_yolo
+train: images/train
+val: images/test
+
+names:
+    0: bee
+    1: ladybug
