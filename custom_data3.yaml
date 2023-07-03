@@ -1,0 +1,9 @@
+path: ../train_data3
+train: images/train  # train images (relative to 'path') 128 images
+val: images/val  # val images (relative to 'path') 128 images
+
+# Classes
+names:
+  0: ladybug
+  1: bee
+  2: butterfly
